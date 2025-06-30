@@ -45,7 +45,7 @@ Repositório criado como projeto final para o Bootcamp **Microsoft Azure AI Fund
 
 -   **Via Portal do Azure:**
     -   Método mais visual e intuitivo, ideal para iniciantes. O portal guia o usuário através de um assistente passo a passo, desde a configuração básica até rede, discos e gerenciamento.
-    -   ![Criando uma VM através do Portal do Azure]([imagens/portal-criacao-vm.png](https://github.com/bielgr/Projeto-VMs-AZ-104/blob/2a97b3ac740d38fcf74ee74d430d6fd47c00b1eb/image.png))
+    -   ![Criando uma VM através do Portal do Azure](https://github.com/bielgr/Projeto-VMs-AZ-104/blob/main/image.png?raw=true)
 
 -   **Via Azure CLI (Command-Line Interface):**
     -   Ferramenta de linha de comando para gerenciar recursos do Azure. É multiplataforma e ideal para automação.
